@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|solutionrelative:SiteProject\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\timeseries\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|solutionrelative:timeseries\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC9738CA-B039-4899-B0A6-480C558A5FBE}|SiteProject.pyproj|solutionrelative:SiteProject\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\urls.py",
+              "RelativeDocumentMoniker": "SiteProject\\urls.py",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\urls.py",
+              "RelativeToolTip": "SiteProject\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T01:16:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\timeseries\\views.py",
+              "RelativeDocumentMoniker": "timeseries\\views.py",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\timeseries\\views.py",
+              "RelativeToolTip": "timeseries\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T01:16:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\settings.py",
+              "RelativeDocumentMoniker": "SiteProject\\settings.py",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\Diploma\\Bayes_DiplomaSite\\SiteProject\\SiteProject\\settings.py",
+              "RelativeToolTip": "SiteProject\\settings.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T01:10:21.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
